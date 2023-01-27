@@ -16,5 +16,5 @@ __main
 		SUB		R0,R0,#27
 		MOV		R0,R0,ASR #2			; Divide the total by 4
 		
-Stop	B	Stop
+ Stop	B	Stop
 		END
